@@ -1,7 +1,9 @@
 # 서버 매뉴얼
 
 Lab. of Veterinary Informatics and Bioinformatics
+
 College of Veterinary Medicine
+
 Seoul National University
 
 author: Wongyung Choi
